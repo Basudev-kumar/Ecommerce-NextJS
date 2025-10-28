@@ -199,7 +199,7 @@ export default async function DashboardPage() {
         </div>
       </div>
 
-      <div className="mt-8 p-6 bg-green-50 rounded-lg">
+      {/* <div className="mt-8 p-6 bg-green-50 rounded-lg">
         <h2 className="text-xl font-semibold mb-2">
           🔄 Rendering Strategy: Server-Side Rendering (SSR)
         </h2>
@@ -208,7 +208,7 @@ export default async function DashboardPage() {
           ensures you always see the most up-to-date inventory statistics and
           product information.
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
